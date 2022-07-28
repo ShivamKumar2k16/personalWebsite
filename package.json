@@ -4,6 +4,7 @@
   "description": "Node.js + MongoDB: JWT Authentication & Authorization crud",
   "main": "server.js",
   "scripts": {
+    "start": "node server.js",
     "test": "jest"
   },
   "repository": {
